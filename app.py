@@ -58,8 +58,6 @@ submit_snippet = pn.widgets.Button(
     ),
 )
 
-submit_snippet["js_properties"] = {"id": "submit-btn-id"}
-
 
 def remove_snippet(snippet_data, *args):
     snippet_row, loaded_snippet = (
