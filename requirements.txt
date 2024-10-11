@@ -1,0 +1,7 @@
+panel 
+watchfiles
+jupyter_bokeh 
+ipykernel
+psycopg2
+pytest-playwright
+playwright
